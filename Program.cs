@@ -16,8 +16,7 @@ namespace Prework_Calculator
             int c=Int32.Parse(Console.ReadLine());
             if(c==1){Add(a,b);}
             else if(c==2){Subtract(a,b);}
-             else if(c==3){Multiply(a,b);}
-                    
+            else if(c==3){Multiply(a,b);}        
             else{Divide(a,b);}
         }
     
@@ -26,7 +25,6 @@ namespace Prework_Calculator
         Console.WriteLine($"The sum is:{a+b}");
 
          }
-
 
 
          public static void Subtract(int a, int b){
