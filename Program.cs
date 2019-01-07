@@ -23,6 +23,7 @@ namespace Prework_Calculator
         public static void Add(double a, double b){
   
         Console.WriteLine($"The sum is:{a+b}");
+         
 
          }
 
@@ -30,13 +31,14 @@ namespace Prework_Calculator
          public static void Subtract(double a, double b){
 
         Console.WriteLine($"The result of subtraction is:{a-b}");
+       
 
          }
 
          public static void Multiply(double a, double b){
  
         Console.WriteLine($"The production is:{a*b}");
-
+         
          }
 
         public static void Divide(double a,double b){
@@ -51,6 +53,7 @@ namespace Prework_Calculator
 }
             finally{
                 Console.WriteLine($"The result is {result}");
+    
 
 }                  
          }
