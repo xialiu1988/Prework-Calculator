@@ -8,9 +8,9 @@ namespace Prework_Calculator
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("please enter the first number:");
-            int a=Int32.Parse(Console.ReadLine());
+            double a=double.Parse(Console.ReadLine());
             Console.WriteLine("Please enter the second number:");
-            int b=Int32.Parse(Console.ReadLine());
+            double b=double.Parse(Console.ReadLine());
 
            Console.WriteLine("What you want to do? Add:press 1; Substract: press 2; Multiply: press 3; Divide: Press 4.");
             int c=Int32.Parse(Console.ReadLine());
@@ -20,27 +20,27 @@ namespace Prework_Calculator
             else{Divide(a,b);}
         }
     
-        public static void Add(int a, int b){
+        public static void Add(double a, double b){
   
         Console.WriteLine($"The sum is:{a+b}");
 
          }
 
 
-         public static void Subtract(int a, int b){
+         public static void Subtract(double a, double b){
 
         Console.WriteLine($"The result of subtraction is:{a-b}");
 
          }
 
-         public static void Multiply(int a, int b){
+         public static void Multiply(double a, double b){
  
         Console.WriteLine($"The production is:{a*b}");
 
          }
 
-        public static void Divide(int a,int b){
-        int result=0;
+        public static void Divide(double a,double b){
+        double result=0.0;
          
            try{
                result= a/b;
