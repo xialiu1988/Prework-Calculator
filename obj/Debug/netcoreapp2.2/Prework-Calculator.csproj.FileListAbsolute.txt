@@ -1,0 +1,11 @@
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.csprojAssemblyReference.cache
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.AssemblyInfoInputs.cache
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.AssemblyInfo.cs
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.deps.json
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.runtimeconfig.json
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.runtimeconfig.dev.json
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.dll
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\bin\Debug\netcoreapp2.2\Prework-Calculator.pdb
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.dll
+C:\Users\xiali\codefellows\401\prework\Prework-Calculator\obj\Debug\netcoreapp2.2\Prework-Calculator.pdb
